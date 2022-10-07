@@ -29,4 +29,4 @@ Troubleshooting:
 Next Steps:
     1. Add your own functions.
     2. Add more CSS or use your own stylessheet.
-    3. Don't forget to edit functions.php file, if using a different one.
+        Don't forget to edit functions.php file, if using a different one.
